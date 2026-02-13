@@ -86,7 +86,7 @@ body {
   background: #ffffff;
   border: 2px solid #6082B6;
   /* Estilo minimalista */
-  font-size: 1.2em;
+  font-size: 1em;
   padding: 16px;
   border-radius: 12px;
   text-decoration: none;
@@ -112,4 +112,5 @@ body {
   display: block;
   font-size: 13px;
   opacity: 0.8;
+
 }
